@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+Create an application for sharing transcript working on browser with using Rust language.
+
 ### Day 0: April 4, 2019
 
 **Today's Progress**: Create a Rust file to try a simple key rotation with Indy SDK.
