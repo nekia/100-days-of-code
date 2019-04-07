@@ -16,3 +16,8 @@ Create an application for sharing transcript working on browser with using Rust 
 
 **Thoughts:** It might be difficult to make use this one hour only for purely coding until settling in this activity.
 
+### Day 2: April 8, 2019
+
+**Today's Progress**: Code Scaffolding code that likely to appear in anything that uses indy. But it doesn't work on my environment. I have some error.
+
+**Thoughts:** Once an error happen, the state of the environment seems to be left unexpected, I think. I need to understand how to clean up my env
