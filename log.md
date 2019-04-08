@@ -21,3 +21,11 @@ Create an application for sharing transcript working on browser with using Rust 
 **Today's Progress**: Code Scaffolding code that likely to appear in anything that uses indy. But it doesn't work on my environment. I have some error.
 
 **Thoughts:** Once an error happen, the state of the environment seems to be left unexpected, I think. I need to understand how to clean up my env
+
+### Day 3: April 9, 2019
+
+**Today's Progress**: Done debug for my first Rust exercise. Now it works successfull without any errors. Good!
+
+**Thoughts:** At the same time with this activity, I might have better take some classes for Rust in Udemy.
+
+**Link to work:** [Debug log](https://github.com/nekia/100-days-of-code/issues/1#issuecomment-481028271)
