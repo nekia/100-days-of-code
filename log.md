@@ -29,3 +29,11 @@ Create an application for sharing transcript working on browser with using Rust 
 **Thoughts:** At the same time with this activity, I might have better take some classes for Rust in Udemy.
 
 **Link to work:** [Debug log](https://github.com/nekia/100-days-of-code/issues/1#issuecomment-481028271)
+
+### Day 4: April 10, 2019
+
+**Today's Progress**: Stuck in the key rotation. I likely use obsoleted APIs in my code.
+
+**Thoughts:** I need to change the reference to be read for writing my first project code.
+
+**Link to work:** [Git: RustExercises Repo](https://github.com/nekia/RustExercises/commit/9bf3b72b022aae737c9f0ddfcb32dc35de9a9ad5)
