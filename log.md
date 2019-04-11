@@ -37,3 +37,11 @@ Create an application for sharing transcript working on browser with using Rust 
 **Thoughts:** I need to change the reference to be read for writing my first project code.
 
 **Link to work:** [Git: RustExercises Repo](https://github.com/nekia/RustExercises/commit/9bf3b72b022aae737c9f0ddfcb32dc35de9a9ad5)
+
+### Day 5: April 11, 2019
+
+**Today's Progress**: I could update all the obsoleted APIs to new ones and see that the application worked properly.
+
+**Thoughts:** I can't find out where the wallet data is stored on my environment. It's quite inefficient that I have to increment wallet name and pool name every time I run my application.
+
+**Link to work:** [Git: RustExercises Repo](https://github.com/nekia/RustExercises/commit/496cbcf20b01aae28a45dcfcd5e384f69e6249c6)
