@@ -45,3 +45,11 @@ Create an application for sharing transcript working on browser with using Rust 
 **Thoughts:** I can't find out where the wallet data is stored on my environment. It's quite inefficient that I have to increment wallet name and pool name every time I run my application.
 
 **Link to work:** [Git: RustExercises Repo](https://github.com/nekia/RustExercises/commit/496cbcf20b01aae28a45dcfcd5e384f69e6249c6)
+
+### Day 6: April 15, 2019
+
+**Today's Progress**: I've completed to code for issueing a credential.
+
+**Thoughts:** Time really flies during this one hour every day.
+
+**Link to work:** [Git: RustExercises Repo](https://github.com/nekia/RustExercises/commit/2aa5f092ed86cc25d43e21933760377f0ed35d7b)
