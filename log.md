@@ -53,3 +53,11 @@ Create an application for sharing transcript working on browser with using Rust 
 **Thoughts:** Time really flies during this one hour every day.
 
 **Link to work:** [Git: RustExercises Repo](https://github.com/nekia/RustExercises/commit/2aa5f092ed86cc25d43e21933760377f0ed35d7b)
+
+### Day 7: April 16, 2019
+
+**Today's Progress**: I've completed to code for issueing a proof. I've already gone through the common processes for Self Soverign Identity (SSI) management with Rust language.
+
+**Thoughts:** I'll start my personal development project using SSI mgmt!
+
+**Link to work:** [Git: RustExercises Repo](https://github.com/nekia/RustExercises/commit/737eb3535e0952fcc1e036242b4a68382c8edbbe)
