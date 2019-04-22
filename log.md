@@ -61,3 +61,11 @@ Create an application for sharing transcript working on browser with using Rust 
 **Thoughts:** I'll start my personal development project using SSI mgmt!
 
 **Link to work:** [Git: RustExercises Repo](https://github.com/nekia/RustExercises/commit/737eb3535e0952fcc1e036242b4a68382c8edbbe)
+
+### Day 8: April 22, 2019 (behind 10days)
+
+**Today's Progress**: I've found out that there is another way to implement my own application on indy network. I understood that, by using indy-agent (higher-level component than indy-sdk for accessing indy network) we are able to manage all of the DIDs which are created between all the relationships easily.
+
+**Thoughts:** I had caught a cold for the recent a few days. Managing my own health is also one of the important things to achieve this challenge until the 100th day.
+
+**Link to work:** [Activity Log](https://github.com/nekia/100-days-of-code/issues/3#issuecomment-485410580)
