@@ -69,3 +69,11 @@ Create an application for sharing transcript working on browser with using Rust 
 **Thoughts:** I had caught a cold for the recent a few days. Managing my own health is also one of the important things to achieve this challenge until the 100th day.
 
 **Link to work:** [Activity Log](https://github.com/nekia/100-days-of-code/issues/3#issuecomment-485410580)
+
+### Day 9: April 23, 2019 (behind 10days)
+
+**Today's Progress**: I spent all the time to read the code of indy-agent sample. It consists of message handler written by python(backend) and GUI(Vue.js). 
+
+**Thoughts:** I'm going to start with the enhancement of this sample tha  is toadd the interoperation with indy-pool.
+
+**Link to work:** [Source code: reference](https://github.com/hyperledger/indy-agent/tree/master/python)
