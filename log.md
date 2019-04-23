@@ -77,3 +77,12 @@ Create an application for sharing transcript working on browser with using Rust 
 **Thoughts:** I'm going to start with the enhancement of this sample tha  is toadd the interoperation with indy-pool.
 
 **Link to work:** [Source code: reference](https://github.com/hyperledger/indy-agent/tree/master/python)
+
+### Day 10: April 24, 2019 (behind 10days)
+
+**Today's Progress**: I found out that node.js reference agent has already been implemented indy-pool access and credential/proof issueing logic. I'll switch my baseline to this environment.
+
+**Thoughts:** I need more time to fix the detail of my initial software design.
+
+**Link to work:** [Source code: reference](https://github.com/hyperledger/indy-agent/blob/master/nodejs/README.md)
+
